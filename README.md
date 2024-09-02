@@ -30,13 +30,9 @@ Our analysis employs various data mining and machine learning techniques:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/alcohol-mortality-analysis.git
+   git clone https://github.com/DeborahAdedigba/COM725_assessment.ipynb
    ```
-2. Install required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebooks in the `notebooks/` directory to reproduce the analysis.
+2. Run the Jupyter notebooks in the `notebooks/` directory to reproduce the analysis.
 
 ## Dependencies
 
